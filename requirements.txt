@@ -1,0 +1,25 @@
+./NorenRestApiPy-0.0.22-py2.py3-none-any.whlaltgraph==0.17.3
+macholib==1.16.2
+NorenRestApiPy @ file:///Users/sly/PycharmProjects/superT/ShoonyaApi-py/dist/NorenRestApiPy-0.0.22-py2.py3-none-any.whl
+pyinstaller==5.12.0
+pyinstaller-hooks-contrib==2023.3
+altgraph==0.17.3
+certifi==2023.5.7
+charset-normalizer==3.1.0
+idna==3.4
+macholib==1.16.2
+NorenRestApiPy @ file:///Users/sly/PycharmProjects/superT/ShoonyaApi-py/dist/NorenRestApiPy-0.0.22-py2.py3-none-any.whl
+numpy==1.25.0
+pandas==2.0.2
+pandas-ta==0.3.14b0
+pyinstaller==5.12.0
+pyinstaller-hooks-contrib==2023.3
+pyotp==2.8.0
+python-dateutil==2.8.2
+pytz==2023.3
+PyYAML==6.0
+requests==2.31.0
+six==1.16.0
+tzdata==2023.3
+urllib3==2.0.3
+websocket-client==1.6.0
